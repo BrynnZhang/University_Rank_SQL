@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "University_DB",
+            "database": "${workspaceFolder:University_Rank_SQL}/university_database.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
